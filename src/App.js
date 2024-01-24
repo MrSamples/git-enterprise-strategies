@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import gatorLogo from './gator.gif';
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello World! This is our team project.
+          Hello World! This is our team project. My name is Reed Samples.
         </p>	
       </header>
     </div>
